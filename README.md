@@ -30,7 +30,7 @@ El proyecto incluye dos partes principales:
 
 ## Ejemplo de Diseño 3D 🌟
 
-[![Ejemplo de Diseño 3D del Bote de Basura]](https://www.youtube.com/watch?v=ejemplo-video)
+[[Ejemplo de Diseño 3D del Bote de Basura]](https://www.youtube.com/watch?v=qE22mNhubSc)
 
 ## Contribuciones 🚀
 
